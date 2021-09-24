@@ -1,6 +1,6 @@
 INSERT INTO rdata (a,b,x) VALUES
-('carnegie','mellon',20),
-('data','science',5),
-('statistical','computing',88);
+('cmu','good',20),
+('data','nice',5),
+('stats','hard',88);
 
 select * from rdata;
